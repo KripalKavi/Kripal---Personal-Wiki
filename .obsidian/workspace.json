@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "69546bcacbae6a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "a670752ae5dff4e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7e335741db00b42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "podcasts/knowledge-project-rockefeller-controlled-intensity-success.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "knowledge-project-rockefeller-controlled-intensity-success"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e10205a930eaba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7359ff3a6c70c19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e3c87f4768f97b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c6bc3a84695ad89a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7989485986105b4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "565e6c2e042b63a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff5be645eb5b584f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c10084e1be144ed2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "podcasts/lenny-claude-code-boris-cherny.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lenny-claude-code-boris-cherny"
+            }
+          },
+          {
+            "id": "28e2b36db93560a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "podcasts/lenny-claude-code-boris-cherny.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from lenny-claude-code-boris-cherny"
+            }
+          },
+          {
+            "id": "22170145ab670481",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f1ccc32c026ca66",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c5fdea013ba3180c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "podcasts/knowledge-project-rockefeller-controlled-intensity-success.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.16650390625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a7e335741db00b42",
+  "lastOpenFiles": [
+    "podcasts/knowledge-project-bill-gurley-founders-product-instinct.md",
+    "concepts/controlled-intensity.md",
+    "entities/standard-oil.md",
+    "entities/john-d-rockefeller.md",
+    "podcasts/knowledge-project-rockefeller-controlled-intensity-success.md",
+    "essays/emotional-clarity-ai-age-wisdom-stack.md",
+    "podcasts/huberman-control-brain-chemistry-practical-toolkit.md",
+    "podcasts/huberman-andy-stumpf-micro-discipline-high-performance.md",
+    "concepts/neurochemical-state-orchestration.md",
+    "podcasts/huberman-richie-davidson-meditation-flourishing.md",
+    "concepts/micro-discipline.md",
+    "concepts/influence-vs-concern.md",
+    "entities/andrew-huberman.md",
+    "entities/andy-stumpf.md",
+    "podcasts/lenny-dan-shipper-ai-paradox.md",
+    "podcasts/lenny-max-schoening-agency-over-skills.md",
+    "concepts/cultivating-agency.md",
+    "AGENTS.md",
+    "concepts/founder-advantage-stack.md",
+    "concepts/bedrock-and-bleeding-edge.md",
+    "entities/bill-gurley.md",
+    "essays/labosco-cortisol-sleep-9-fixes.md",
+    "log.md.tmp.47032.42126961212c",
+    "index.md.tmp.47032.c76c5e7d78d0",
+    "index.md.tmp.47032.e50a3e27450a",
+    "index.md.tmp.47032.05b1a135a148",
+    "concepts/cultivating-agency.md.tmp.47032.8b702f3ac11e",
+    "concepts/ant-vs-break-in.md",
+    "index.md",
+    "entities/matthew-labosco.md",
+    "entities/dan-shipper.md",
+    "log.md.tmp.44112.1b0e857f63c6",
+    "index.md.tmp.44112.ed5723f6edaf",
+    "index.md.tmp.44112.9f760f08c34b",
+    "index.md.tmp.44112.014d7f8c1530",
+    "index.md.tmp.44112.dcd8d38f3deb"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:gist.github.com)",
+      "WebFetch(domain:www.lennysnewsletter.com)",
+      "WebFetch(domain:open.spotify.com)",
+      "Bash(Get-Content *)",
+      "WebFetch(domain:github.com)",
+      "PowerShell(Move-Item *)",
+      "PowerShell(Get-ChildItem -Directory | Where-Object { $_.Name -match '^tools$' } | ForEach-Object { \"Name: $\\($_.Name\\) | Exact: $\\(\\(cmd /c dir /b $_.Parent.FullName | Where-Object { $_ -ieq 'tools' }\\)\\)\" }; Get-ChildItem -Path \"tools\" -ErrorAction SilentlyContinue | Select-Object Name)",
+      "Bash(python3 *)"
+    ]
+  }
+}
