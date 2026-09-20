@@ -3,8 +3,8 @@ title: "Paul Graham"
 type: entity-person
 date_added: 2026-04-17
 tags: [startups, design, essays, yc, intellectual-frameworks]
-sources: ["https://gist.github.com/kipply/3c145c544e9fc46d543e53e6b5e06c7c"]
-related: ["../essays/paul-graham-essays.md"]
+sources: ["https://gist.github.com/kipply/3c145c544e9fc46d543e53e6b5e06c7c", "https://www.paulgraham.com/greatwork.html"]
+related: ["../essays/paul-graham-essays.md", "../essays/paul-graham-how-to-do-great-work.md", "../concepts/great-work-loop.md"]
 ---
 
 # Paul Graham
@@ -29,6 +29,7 @@ Co-founded Y Combinator in 2005 with Jessica Livingston, Trevor Blackwell, and R
 - **Environment as multiplier**: Who you work with and what you work on together dramatically shapes what you can produce
 - **Prestige is a lagging indicator**: By the time something is prestigious, the interesting work has usually already moved elsewhere
 - **Guard your top idea**: What occupies your idle mind determines what you solve — attention management is a first-order tool
+- **Great work loop**: Choose a field, reach the frontier, notice gaps, and explore promising ones; curiosity is the search algorithm and morale engine
 
 ---
 
@@ -41,3 +42,4 @@ Graham's frameworks are among the most durable in technology and product thinkin
 ## Appearances
 
 - [Paul Graham Essays Collection](../essays/paul-graham-essays.md) — curated collection covering 2002–2020
+- [How to Do Great Work](../essays/paul-graham-how-to-do-great-work.md) — 2023 essay on curiosity, problem choice, successive versions, originality, and morale
