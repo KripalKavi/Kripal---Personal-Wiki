@@ -3,8 +3,8 @@ title: "Malleable Software"
 type: concept
 date_added: 2026-05-15
 tags: [product-strategy, ai, design, agentic-ai, microsoft-relevant]
-sources: ["https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more"]
-related: ["../podcasts/lenny-max-schoening-agency-over-skills.md", "../entities/max-schoening.md", "../entities/notion.md", "../concepts/harness-as-moat.md", "../concepts/cultivating-agency.md", "../essays/lenny-claire-vo-openclaw-personal-ai-agent.md"]
+sources: ["https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more", "https://fs.blog/knowledge-project-podcast/tobi-lutke-3/"]
+related: ["../podcasts/lenny-max-schoening-agency-over-skills.md", "../podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md", "../entities/max-schoening.md", "../entities/notion.md", "../entities/shopify.md", "../concepts/harness-as-moat.md", "../concepts/cultivating-agency.md", "../essays/lenny-claire-vo-openclaw-personal-ai-agent.md"]
 ---
 
 # Malleable Software
@@ -50,6 +50,8 @@ Schoening pushes against personal-AI-agent isolationism:
 > "It has to be built on top of a platform or an operating system that encourages this, because otherwise we're just doing individual little tools, everybody has their own. And I like communal tools."
 
 This is the strategic insight: malleable software needs a substrate. The substrate is the moat. Notion positions itself as that substrate (*"I think of Notion as an operating system"*). Connected workspace + agents-can-roam + user-can-shape = malleable platform.
+
+Lütke describes a complementary organizational version: an AI-shaped operating system that can fulfill wishes and evolve through conversation, plus Shopify's River as a shared AI colleague. The substrate is useful when it is both malleable and communal—individual workflows can change without every person having to maintain an isolated system.
 
 This is the natural overlap with [Harness as Moat](../concepts/harness-as-moat.md): the harness *is* the substrate that enables malleability while preserving communal infrastructure.
 

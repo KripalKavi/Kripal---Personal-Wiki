@@ -2,7 +2,7 @@
 
 _Content catalog. Updated on each ingest. Read this first when querying._
 
-Last updated: 2026-09-05 (transcript-based Tara Seshan redo, persistent AI coworkers, and writing as thinking)
+Last updated: 2026-09-19 (Kaz Nejatian on truth, turnarounds, and AI-enabled organizations)
 
 ---
 
@@ -10,6 +10,8 @@ Last updated: 2026-09-05 (transcript-based Tara Seshan redo, persistent AI cowor
 
 | Page | Guest | Show | Date | Tags |
 |------|-------|------|------|------|
+| [Tobi Lütke: AI Agents, Better Decisions, and the Future of Work](podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md) | Tobi Lütke | The Knowledge Project | 2026-09-15 | `ai` `agentic-ai` `product-strategy` `decision-making` `leadership` `org-design` `microsoft-relevant` |
+| [Kaz Nejatian: Truth Over Feelings and Rebuilding Opendoor](podcasts/knowledge-project-kaz-nejatian-truth-over-feelings.md) | Kaz Nejatian | The Knowledge Project | 2026-07-21 | `leadership` `org-design` `product-strategy` `ai` `decision-making` `turnaround` `microsoft-relevant` |
 | [AI's Third Era: The Rise of Persistent AI Coworkers - Tara Seshan](podcasts/lenny-tara-seshan-persistent-ai-coworkers.md) | Tara Seshan | Lenny's Podcast | 2026-08-30 | `ai` `product-strategy` `career` `org-design` `frameworks` `microsoft-relevant` `agentic-ai` |
 | [John D. Rockefeller: Controlled Intensity and the Behaviors Behind History's Greatest Fortune](podcasts/knowledge-project-rockefeller-controlled-intensity-success.md) | John D. Rockefeller (subject) | The Knowledge Project — Outliers | 2026-07-28 | `leadership` `performance` `business-strategy` `decision-making` `capital-allocation` `frameworks` `microsoft-relevant` |
 | [Control Brain Chemistry: A Practical Toolkit for Focus, Motivation, and Well-Being](podcasts/huberman-control-brain-chemistry-practical-toolkit.md) | Solo episode | Huberman Lab Essentials | 2026-08-06 | `leadership` `performance` `neuroscience` `focus` `frameworks` `microsoft-relevant` |
@@ -96,6 +98,8 @@ Last updated: 2026-09-05 (transcript-based Tara Seshan redo, persistent AI cowor
 | [Max Schoening](entities/max-schoening.md) | Head of Product, Notion; ex-GitHub/Heroku/Google | `ai` `product-strategy` `design` `engineering` `leadership` `microsoft-relevant` |
 | [Dan Shipper](entities/dan-shipper.md) | Co-founder & CEO, Every; "Automation is a lie" thesis | `ai` `product-strategy` `media` `agentic-ai` |
 | [Matthew LaBosco](entities/matthew-labosco.md) | Executive coach; nervous-system regulation & sleep | `leadership` `performance` `coaching` `neuroscience` |
+| [Tobi Lütke](entities/tobi-lutke.md) | Founder and CEO, Shopify; engineer-founder focused on judgment, systems, and AI-native work | `ai` `product-strategy` `leadership` `decision-making` |
+| [Kaz Nejatian](entities/kaz-nejatian.md) | CEO, Opendoor; former Shopify leader; turnaround and AI-enabled operating-model thinker | `leadership` `org-design` `product-strategy` `ai` `turnaround` |
 
 ### Companies
 
@@ -106,6 +110,8 @@ Last updated: 2026-09-05 (transcript-based Tara Seshan redo, persistent AI cowor
 | [Google](entities/google.md) | Search, Workspace, and AI (Gemini, AI Mode) | `ai` `search` `microsoft-relevant` |
 | [Notion](entities/notion.md) | Connected workspace; AI-substrate productivity software | `product-strategy` `ai` `productivity` `microsoft-relevant` |
 | [Every](entities/every.md) | Media + AI tools company; 30-person living lab for AI-native work | `ai` `media` `agentic-ai` `product-strategy` |
+| [Shopify](entities/shopify.md) | Commerce software and infrastructure company; case study in AI-native organizational design | `product-strategy` `ai` `agentic-ai` `org-design` |
+| [Opendoor](entities/opendoor.md) | Technology-enabled housing market maker; case study in truth-first turnaround and AI leverage | `product-strategy` `ai` `org-design` `turnaround` |
 
 ---
 
@@ -155,6 +161,9 @@ Last updated: 2026-09-05 (transcript-based Tara Seshan redo, persistent AI cowor
 | [Ride the Model](concepts/ride-the-model.md) | Survival principle: models make yesterday's competence cheap; ride each new release on your actual work or get commoditized | `ai` `career` `product-strategy` `frameworks` `microsoft-relevant` |
 | [Reach Test](concepts/reach-test.md) | When you wake up, do you reach for it organically? Shipper's adoption diagnostic; binary, behavioral, hard to game | `ai` `product-strategy` `activation` `frameworks` `microsoft-relevant` |
 | [Ant vs. Break-in (Alarm Calibration)](concepts/ant-vs-break-in.md) | Nervous system fires the same alarm for a Slack ping as for a tiger; the fix is response calibration, not stimulus reduction | `leadership` `performance` `neuroscience` `frameworks` `microsoft-relevant` |
+| [Choosing Among Good Options](concepts/choosing-among-good-options.md) | The hard strategic problem is selecting among several valid futures when the best path has delayed feedback | `decision-making` `product-strategy` `leadership` `frameworks` `microsoft-relevant` |
+| [Truth Over Feelings](concepts/truth-over-feelings.md) | Make reality, mission alignment, and useful disagreement outrank comfort and politeness | `leadership` `org-design` `decision-making` `frameworks` `microsoft-relevant` |
+| [AI Exoskeleton](concepts/ai-exoskeleton.md) | Wrap each worker in context and decision support to flatten management layers without laundering accountability | `ai` `org-design` `product-strategy` `agentic-ai` `frameworks` `microsoft-relevant` |
 
 ---
 

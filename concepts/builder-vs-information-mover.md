@@ -3,8 +3,8 @@ title: "Builder vs. Information Mover"
 type: concept
 date_added: 2026-05-11
 tags: [product-strategy, career, ai, org-design, frameworks, microsoft-relevant]
-sources: ["Lenny's Podcast — Nikhyl Singhal (2026)", "Lenny's Podcast — Dan Shipper (2026)"]
-related: ["../concepts/shadow-superpower.md", "../concepts/dont-be-fungible.md", "../concepts/hyper-realistic-work-like-activities.md", "../concepts/automation-is-a-lie.md", "../concepts/bedrock-and-bleeding-edge.md", "../concepts/founder-advantage-stack.md", "../podcasts/lenny-nikhyl-singhal-pm-career-ai.md", "../podcasts/lenny-dan-shipper-ai-paradox.md", "../podcasts/knowledge-project-bill-gurley-founders-product-instinct.md"]
+sources: ["Lenny's Podcast — Nikhyl Singhal (2026)", "Lenny's Podcast — Dan Shipper (2026)", "https://fs.blog/knowledge-project-podcast/tobi-lutke-3/"]
+related: ["../concepts/shadow-superpower.md", "../concepts/dont-be-fungible.md", "../concepts/hyper-realistic-work-like-activities.md", "../concepts/automation-is-a-lie.md", "../concepts/bedrock-and-bleeding-edge.md", "../concepts/founder-advantage-stack.md", "../concepts/choosing-among-good-options.md", "../podcasts/lenny-nikhyl-singhal-pm-career-ai.md", "../podcasts/lenny-dan-shipper-ai-paradox.md", "../podcasts/knowledge-project-bill-gurley-founders-product-instinct.md", "../podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md"]
 ---
 
 ## Definition
@@ -62,6 +62,8 @@ The transition also **inverts the career development model**: PMs are traditiona
 [Dan Shipper](../entities/dan-shipper.md) (Every) makes the same claim from a different angle on Lenny's, 2026-05-24: PMs will *thrive* in the AI era because the bottleneck moves to **directing agent behavior and maintaining user-value alignment** — exactly the judgment-and-building work that defines the builder PM. Shipper's framing reinforces the bifurcation: agents amplify the part of the job that requires direction and judgment, while automating the information-movement layer. See [The AI Paradox](../podcasts/lenny-dan-shipper-ai-paradox.md) and [Automation Is a Lie](../concepts/automation-is-a-lie.md).
 
 This is independent triangulation from two senior practitioners (Singhal at Skip/ex-Meta/Google; Shipper at Every) running different experiments. Both arrive at: the builder PM thrives; the information-mover PM does not. That convergence is the load-bearing signal — not either one alone.
+
+Lütke adds the executive version: once AI supplies research, synthesis, and execution, the human value shifts toward selecting among good paths, exercising taste, and owning consequences. That is builder judgment at the strategy layer—not merely faster information movement.
 
 ## Sources
 

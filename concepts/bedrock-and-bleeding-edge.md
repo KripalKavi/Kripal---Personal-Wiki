@@ -3,8 +3,8 @@ title: "Bedrock and Bleeding Edge"
 type: concept
 date_added: 2026-08-09
 tags: [product-strategy, career, leadership, learning, frameworks, microsoft-relevant]
-sources: ["https://fs.blog/knowledge-project-podcast/bill-gurley/"]
-related: ["../podcasts/knowledge-project-bill-gurley-founders-product-instinct.md", "../entities/bill-gurley.md", "../concepts/founder-advantage-stack.md", "../concepts/builder-vs-information-mover.md", "../concepts/ride-the-model.md", "../concepts/controlled-intensity.md"]
+sources: ["https://fs.blog/knowledge-project-podcast/bill-gurley/", "https://fs.blog/knowledge-project-podcast/tobi-lutke-3/"]
+related: ["../podcasts/knowledge-project-bill-gurley-founders-product-instinct.md", "../podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md", "../entities/bill-gurley.md", "../entities/tobi-lutke.md", "../concepts/founder-advantage-stack.md", "../concepts/builder-vs-information-mover.md", "../concepts/ride-the-model.md", "../concepts/controlled-intensity.md"]
 ---
 
 # Bedrock and Bleeding Edge
@@ -27,6 +27,7 @@ The model also explains an incumbent disadvantage. Newcomers can explore an edge
 - Picasso mastered realist technique before departing into cubism.
 - A product leader studying the evolution of spreadsheets, search, or collaboration software while personally testing agentic workflows can separate durable user needs from temporary interface fashion.
 - A leader who reads AI briefings but never uses multiple models has current information without frontier intuition.
+- Lütke's recommendation to study durable institutions, design, and systems while personally using agent councils is the same bridge: historical depth supplies the patterns; frontier use supplies the sensory evidence.
 
 ## Practice
 

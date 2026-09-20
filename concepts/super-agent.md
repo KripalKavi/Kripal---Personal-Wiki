@@ -11,6 +11,7 @@ tags:
   - microsoft-relevant
 sources:
   - https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper
+  - https://fs.blog/knowledge-project-podcast/tobi-lutke-3/
 related:
   - ../podcasts/lenny-dan-shipper-ai-paradox.md
   - ../entities/dan-shipper.md
@@ -18,6 +19,8 @@ related:
   - ../concepts/forward-deployed-engineer.md
   - ../concepts/harness-as-moat.md
   - ../essays/lenny-claire-vo-openclaw-personal-ai-agent.md
+  - ../podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md
+  - ../entities/shopify.md
 ---
 
 # Super-Agent
@@ -37,6 +40,8 @@ The flip matters because it's a senior practitioner publicly updating against an
 > "Everyone realizes it's like way too much work. This thing breaks all the time. I got to fumble around with it. I got to be able to SSH into my server and like blah, blah, blah. And most people, to do work at least, just don't want to spend that time, or can't. And the fundamental, underlying thing that drives that is whether it's OpenClaw or any other harness, in order for an AI agent to be useful right now, it really needs a human who cares about it. It really needs a human personal connection with someone who's watching what it does and makes sure that it's doing the right thing and that it's useful for people. And the minute you sever that connection... is the minute the agent is not really that useful anymore."
 
 The super-agent solves the "human who cares" problem economically: *one* forward-deployed engineer (or small team) gardens *one* agent for the whole company. The math works at company scale where N personal agents × per-agent gardening cost does not.
+
+Tobi Lütke's description of Shopify's **River** adds a product-quality requirement: the company-wide agent should behave like a colleague with memory, personality, and permission to challenge the user—not merely a command router. Its value combines organizational context, useful pushback, and accountable human decision-making.
 
 This is also a **fragmentation-control** move. Without a super-agent, every SaaS app ships its own copilot, every team builds its own bot, and the user has to context-switch between 12 different agent UIs. The super-agent collapses that into one chat thread.
 
