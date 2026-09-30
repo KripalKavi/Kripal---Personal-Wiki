@@ -2,7 +2,7 @@
 
 _Content catalog. Updated on each ingest. Read this first when querying._
 
-Last updated: 2026-09-24 (LaBosco follow-up on cortisol and 3–4 AM waking)
+Last updated: 2026-09-29 (Peter Sellis transcript ingest)
 
 ---
 
@@ -10,6 +10,7 @@ Last updated: 2026-09-24 (LaBosco follow-up on cortisol and 3–4 AM waking)
 
 | Page | Guest | Show | Date | Tags |
 |------|-------|------|------|------|
+| [Peter Sellis: Core Product Value, Taste, and Spiky Talent](podcasts/lenny-peter-sellis-snap-discord-product.md) | Peter Sellis | Lenny's Podcast | 2026-09-20 | `product-strategy` `growth` `leadership` `org-design` `microsoft-relevant` |
 | [Tobi Lütke: AI Agents, Better Decisions, and the Future of Work](podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md) | Tobi Lütke | The Knowledge Project | 2026-09-15 | `ai` `agentic-ai` `product-strategy` `decision-making` `leadership` `org-design` `microsoft-relevant` |
 | [Winston Weinberg: Speed, Stress, and Better Decisions](podcasts/knowledge-project-winston-weinberg-speed-stress-decisions.md) | Winston Weinberg | The Knowledge Project | 2026-05-12 | `ai` `product-strategy` `decision-making` `leadership` `enterprise` `resilience` `microsoft-relevant` |
 | [OpenAI Codex Lead on the New Shape of Product Work](podcasts/lenny-andrew-ambrosino-codex-product-work.md) | Andrew Ambrosino | Lenny's Podcast | 2026-06-28 | `ai` `product-strategy` `product-development` `leadership` `org-design` `microsoft-relevant` |
@@ -105,6 +106,7 @@ Last updated: 2026-09-24 (LaBosco follow-up on cortisol and 3–4 AM waking)
 | [Winston Weinberg](entities/winston-weinberg.md) | CEO and co-founder of Harvey; legal AI and decision-velocity operator | `ai` `enterprise` `legal` `leadership` `decision-making` `resilience` |
 | [Shane Parrish](entities/shane-parrish.md) | Founder of Farnam Street and host of The Knowledge Project | `decision-making` `leadership` `business-strategy` `media` |
 | [Kaz Nejatian](entities/kaz-nejatian.md) | CEO, Opendoor; former Shopify leader; turnaround and AI-enabled operating-model thinker | `leadership` `org-design` `product-strategy` `ai` `turnaround` |
+| [Peter Sellis](entities/peter-sellis.md) | Former first PM at Snapchat; former Head of Product at Discord | `product-strategy` `growth` `leadership` `org-design` `frameworks` |
 
 ### Companies
 
@@ -118,6 +120,8 @@ Last updated: 2026-09-24 (LaBosco follow-up on cortisol and 3–4 AM waking)
 | [Shopify](entities/shopify.md) | Commerce software and infrastructure company; case study in AI-native organizational design | `product-strategy` `ai` `agentic-ai` `org-design` |
 | [Opendoor](entities/opendoor.md) | Technology-enabled housing market maker; case study in truth-first turnaround and AI leverage | `product-strategy` `ai` `org-design` `turnaround` |
 | [Harvey](entities/harvey.md) | AI platform for legal and professional-services workflows | `ai` `enterprise` `legal` `product-strategy` `microsoft-relevant` |
+| [Snap](entities/snap.md) | Camera-first messaging and consumer social company | `product-strategy` `growth` `consumer` `advertising` `microsoft-relevant` |
+| [Discord](entities/discord.md) | Community, voice, and real-time communication platform | `product-strategy` `growth` `consumer` `gaming` `community` `microsoft-relevant` |
 
 ---
 
@@ -173,6 +177,7 @@ Last updated: 2026-09-24 (LaBosco follow-up on cortisol and 3–4 AM waking)
 | [Taste as Bottleneck](concepts/taste-as-bottleneck.md) | As AI makes implementation abundant, judgment about what to build and what good looks like becomes the constraint | `ai` `product-strategy` `product-development` `frameworks` `microsoft-relevant` |
 | [Build and Bake](concepts/build-and-bake.md) | Prototype model-dependent ideas early, then revisit them as capability and user readiness improve | `ai` `product-strategy` `product-development` `frameworks` `microsoft-relevant` |
 | [P0 / Two-Way Door Decisioning](concepts/p0-two-way-door-decisioning.md) | Tie decisions to the current bottleneck, move quickly on reversible choices, and protect the P0 from socially rewarded distractions | `decision-making` `leadership` `product-strategy` `frameworks` `microsoft-relevant` |
+| [Core Product Value](concepts/core-product-value.md) | Pair a simple statement of the essential user job with causal metrics that explain why people return | `product-strategy` `growth` `retention` `frameworks` `microsoft-relevant` |
 
 ---
 

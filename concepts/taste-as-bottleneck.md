@@ -3,8 +3,8 @@ title: "Taste as Bottleneck"
 type: concept
 date_added: 2026-09-20
 tags: [ai, product-strategy, product-development, frameworks, microsoft-relevant]
-sources: ["../podcasts/lenny-andrew-ambrosino-codex-product-work.md"]
-related: ["../concepts/builder-vs-information-mover.md", "../concepts/cultivating-agency.md", "../concepts/right-amount-agi-pilled.md", "../concepts/steering-vs-rowing.md"]
+sources: ["../podcasts/lenny-andrew-ambrosino-codex-product-work.md", "../podcasts/lenny-peter-sellis-snap-discord-product.md"]
+related: ["../concepts/builder-vs-information-mover.md", "../concepts/cultivating-agency.md", "../concepts/right-amount-agi-pilled.md", "../concepts/steering-vs-rowing.md", "../concepts/core-product-value.md"]
 ---
 
 # Taste as Bottleneck
@@ -23,6 +23,8 @@ The old product bottleneck was often execution capacity. AI can now produce many
 - A PM evaluates a feature by its end-to-end feel and usefulness, not by whether the underlying code works.
 - A general AI work surface coordinates specialized tools instead of rebuilding every tool itself.
 
+Sellis adds the negative space: taste is not only choosing the best generated option, but maintaining a shelf of good ideas that should not ship yet. A product portfolio with every idea exposed has no curator. In AI products, this restraint is increasingly important because generation naturally expands the surface area.
+
 ## PM Application
 
 For Microsoft product teams:
@@ -31,10 +33,12 @@ For Microsoft product teams:
 2. Make quality bars concrete through examples, prototypes, and user outcomes.
 3. Give high-agency people ownership zones so judgment is exercised close to the work.
 4. Review portfolios of prototypes, not only committed roadmap items.
+5. Ask teams to show what they deliberately did not ship and why. Treat subtraction, scope control, and coherent omission as first-class product work.
 
 ## Sources
 
 - [Andrew Ambrosino on Lenny's Podcast](../podcasts/lenny-andrew-ambrosino-codex-product-work.md)
+- [Peter Sellis on Lenny's Podcast](../podcasts/lenny-peter-sellis-snap-discord-product.md)
 
 ## Related
 
