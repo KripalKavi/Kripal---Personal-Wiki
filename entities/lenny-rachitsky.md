@@ -4,7 +4,7 @@ type: entity-person
 date_added: 2026-05-11
 tags: [product-strategy, career, growth]
 sources: ["Lenny's Podcast (multiple episodes)"]
-related: ["../podcasts/lenny-nikhyl-singhal-pm-career-ai.md", "../podcasts/lenny-anthropic-growth-amol-avasare.md", "../podcasts/lenny-cat-wu-ai-native-pm.md"]
+related: ["../podcasts/lenny-nikhyl-singhal-pm-career-ai.md", "../podcasts/lenny-anthropic-growth-amol-avasare.md", "../podcasts/lenny-cat-wu-ai-native-pm.md", "../podcasts/lenny-andrew-ambrosino-codex-product-work.md"]
 ---
 
 ## Role / Background
@@ -30,6 +30,7 @@ Creator of **Lenny's Newsletter** and **Lenny's Podcast** — the most widely-re
 - [How Google Built AI Mode in Under a Year](../podcasts/lenny-google-ai-mode-robby-stein.md)
 - [Why Cultivating Agency Matters More Than Cultivating Skills in the AI Era — Max Schoening](../podcasts/lenny-max-schoening-agency-over-skills.md)
 - [The AI Paradox: More Automation, More Humans, More Work — Dan Shipper](../podcasts/lenny-dan-shipper-ai-paradox.md)
+- [OpenAI Codex Lead on the New Shape of Product Work — Andrew Ambrosino](../podcasts/lenny-andrew-ambrosino-codex-product-work.md)
 
 ## Relevance
 

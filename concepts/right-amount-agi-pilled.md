@@ -4,7 +4,7 @@ type: concept
 date_added: 2026-04-28
 tags: [ai, product-strategy, frameworks, microsoft-relevant]
 sources: ["Lenny's Podcast, Cat Wu episode, 2026"]
-related: ["../concepts/model-eats-the-harness.md", "../concepts/latent-demand.md", "../concepts/bitter-lesson.md", "../podcasts/lenny-cat-wu-ai-native-pm.md", "../podcasts/lenny-claude-code-boris-cherny.md", "../entities/cat-wu.md"]
+related: ["../concepts/model-eats-the-harness.md", "../concepts/latent-demand.md", "../concepts/bitter-lesson.md", "../concepts/build-and-bake.md", "../podcasts/lenny-cat-wu-ai-native-pm.md", "../podcasts/lenny-claude-code-boris-cherny.md", "../podcasts/lenny-andrew-ambrosino-codex-product-work.md", "../entities/cat-wu.md"]
 ---
 
 # Right Amount of AGI-Pilled
@@ -78,3 +78,4 @@ Vision is not the hard part. Execution on current capability is.
 - [Model Eats the Harness](../concepts/model-eats-the-harness.md) — The mechanism for correcting when you've over-built scaffolding
 - [Latent Demand](../concepts/latent-demand.md) — What users can't do today = map of current model limits = calibration input
 - [The Bitter Lesson](../concepts/bitter-lesson.md) — General model always wins long-term; this concept governs the *short-term* product layer
+- [Build and Bake](../concepts/build-and-bake.md) — Prototype model-dependent ideas early and revisit them as capability improves

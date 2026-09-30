@@ -3,7 +3,7 @@ title: "Matthew LaBosco"
 type: entity-person
 date_added: 2026-06-07
 tags: [leadership, performance, coaching, neuroscience]
-sources: ["https://x.com/matthew_labosco/status/2063271237854646678"]
+sources: ["https://x.com/matthew_labosco/status/2063271237854646678", "https://x.com/matthew_labosco/status/2070523190888247351"]
 related: ["../essays/labosco-cortisol-sleep-9-fixes.md", "../concepts/ant-vs-break-in.md"]
 ---
 
@@ -31,6 +31,7 @@ Operates a paid workshop and content business; X-thread output is engagement-opt
 ## Appearances
 
 - [9 Ways to Drop Cortisol for Deep Sleep](../essays/labosco-cortisol-sleep-9-fixes.md) — X thread, 2026-06-06
+- [Follow-up X post](https://x.com/matthew_labosco/status/2070523190888247351) — shorter restatement of the 3–4 AM/cortisol thesis, 2026-06-26; introduces a conflicting “no food three hours before bed” prescription
 
 ---
 

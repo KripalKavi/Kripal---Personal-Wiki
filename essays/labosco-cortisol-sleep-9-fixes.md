@@ -10,6 +10,7 @@ tags:
   - microsoft-relevant
 sources:
   - https://x.com/matthew_labosco/status/2063271237854646678
+  - https://x.com/matthew_labosco/status/2070523190888247351
 related:
   - ../entities/matthew-labosco.md
   - ../concepts/ant-vs-break-in.md
@@ -24,6 +25,8 @@ related:
 **Published**: 2026-06-06 (X thread)
 **Source**: https://x.com/matthew_labosco/status/2063271237854646678
 **Format**: Viral X thread; mid-thread promotion of a paid workshop, so framing is engagement-optimized. Extract carefully.
+
+**Follow-up source**: On 2026-06-26, LaBosco reposted the sleep thesis in a shorter post. Its only visible prescription is **no food three hours before bed**, which differs from the earlier thread's grapes-before-bed recommendation. Treat both as non-clinical, engagement-optimized advice rather than settled guidance.
 
 ---
 
@@ -50,6 +53,10 @@ related:
 LaBosco argues that nighttime cortisol is the upstream driver of three common executive complaints — broken sleep, 3 AM wake-ups, and accelerated aging — and that the durable fix isn't a sedative or supplement but a *calibration* of the nervous system to stop firing the threat response at non-threats. The 9 tips are a mix of well-grounded physiology (morning sunlight, blood sugar stability) and coaching aphorisms ("should" as the nervous-system curse word; "truth is a down-regulator") wrapped around a workshop pitch. The genuinely portable insights: **(1) the body cannot distinguish a Slack ping from a tiger** — leading to the [Ant vs. Break-in](../concepts/ant-vs-break-in.md) calibration mental model, and **(2) "should" is a measurable cortisol-elevator** — extending [Cultivating Agency](../concepts/cultivating-agency.md) from psychology into physiology.
 
 ---
+
+### Follow-up: the claim gets sharper—and less consistent
+
+The June 26 follow-up compresses the message into a stronger causal claim: high cortisol is presented as the reason for 3–4 AM waking and as a driver of testosterone loss, abdominal fat, brain shrinkage, and reduced lifespan. It then begins an eight-item daily protocol with **no food for three hours before bed**. The post is useful as evidence of LaBosco's recurring “sleep is a safety/cortisol problem” frame, but the recommendation conflicts with the earlier thread's **grapes before bed** advice. That inconsistency is a reminder to preserve the broader calibration model while not treating individual food or timing prescriptions as validated protocol.
 
 ## Key Ideas
 

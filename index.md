@@ -2,7 +2,7 @@
 
 _Content catalog. Updated on each ingest. Read this first when querying._
 
-Last updated: 2026-09-19 (Kaz Nejatian on truth, turnarounds, and AI-enabled organizations)
+Last updated: 2026-09-24 (LaBosco follow-up on cortisol and 3–4 AM waking)
 
 ---
 
@@ -11,6 +11,8 @@ Last updated: 2026-09-19 (Kaz Nejatian on truth, turnarounds, and AI-enabled org
 | Page | Guest | Show | Date | Tags |
 |------|-------|------|------|------|
 | [Tobi Lütke: AI Agents, Better Decisions, and the Future of Work](podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md) | Tobi Lütke | The Knowledge Project | 2026-09-15 | `ai` `agentic-ai` `product-strategy` `decision-making` `leadership` `org-design` `microsoft-relevant` |
+| [Winston Weinberg: Speed, Stress, and Better Decisions](podcasts/knowledge-project-winston-weinberg-speed-stress-decisions.md) | Winston Weinberg | The Knowledge Project | 2026-05-12 | `ai` `product-strategy` `decision-making` `leadership` `enterprise` `resilience` `microsoft-relevant` |
+| [OpenAI Codex Lead on the New Shape of Product Work](podcasts/lenny-andrew-ambrosino-codex-product-work.md) | Andrew Ambrosino | Lenny's Podcast | 2026-06-28 | `ai` `product-strategy` `product-development` `leadership` `org-design` `microsoft-relevant` |
 | [Kaz Nejatian: Truth Over Feelings and Rebuilding Opendoor](podcasts/knowledge-project-kaz-nejatian-truth-over-feelings.md) | Kaz Nejatian | The Knowledge Project | 2026-07-21 | `leadership` `org-design` `product-strategy` `ai` `decision-making` `turnaround` `microsoft-relevant` |
 | [AI's Third Era: The Rise of Persistent AI Coworkers - Tara Seshan](podcasts/lenny-tara-seshan-persistent-ai-coworkers.md) | Tara Seshan | Lenny's Podcast | 2026-08-30 | `ai` `product-strategy` `career` `org-design` `frameworks` `microsoft-relevant` `agentic-ai` |
 | [John D. Rockefeller: Controlled Intensity and the Behaviors Behind History's Greatest Fortune](podcasts/knowledge-project-rockefeller-controlled-intensity-success.md) | John D. Rockefeller (subject) | The Knowledge Project — Outliers | 2026-07-28 | `leadership` `performance` `business-strategy` `decision-making` `capital-allocation` `frameworks` `microsoft-relevant` |
@@ -99,6 +101,9 @@ Last updated: 2026-09-19 (Kaz Nejatian on truth, turnarounds, and AI-enabled org
 | [Dan Shipper](entities/dan-shipper.md) | Co-founder & CEO, Every; "Automation is a lie" thesis | `ai` `product-strategy` `media` `agentic-ai` |
 | [Matthew LaBosco](entities/matthew-labosco.md) | Executive coach; nervous-system regulation & sleep | `leadership` `performance` `coaching` `neuroscience` |
 | [Tobi Lütke](entities/tobi-lutke.md) | Founder and CEO, Shopify; engineer-founder focused on judgment, systems, and AI-native work | `ai` `product-strategy` `leadership` `decision-making` |
+| [Andrew Ambrosino](entities/andrew-ambrosino.md) | Product and engineering lead for OpenAI Codex; builder focused on taste, agency, and model-timed product development | `ai` `product-strategy` `product-development` `leadership` `microsoft-relevant` |
+| [Winston Weinberg](entities/winston-weinberg.md) | CEO and co-founder of Harvey; legal AI and decision-velocity operator | `ai` `enterprise` `legal` `leadership` `decision-making` `resilience` |
+| [Shane Parrish](entities/shane-parrish.md) | Founder of Farnam Street and host of The Knowledge Project | `decision-making` `leadership` `business-strategy` `media` |
 | [Kaz Nejatian](entities/kaz-nejatian.md) | CEO, Opendoor; former Shopify leader; turnaround and AI-enabled operating-model thinker | `leadership` `org-design` `product-strategy` `ai` `turnaround` |
 
 ### Companies
@@ -112,6 +117,7 @@ Last updated: 2026-09-19 (Kaz Nejatian on truth, turnarounds, and AI-enabled org
 | [Every](entities/every.md) | Media + AI tools company; 30-person living lab for AI-native work | `ai` `media` `agentic-ai` `product-strategy` |
 | [Shopify](entities/shopify.md) | Commerce software and infrastructure company; case study in AI-native organizational design | `product-strategy` `ai` `agentic-ai` `org-design` |
 | [Opendoor](entities/opendoor.md) | Technology-enabled housing market maker; case study in truth-first turnaround and AI leverage | `product-strategy` `ai` `org-design` `turnaround` |
+| [Harvey](entities/harvey.md) | AI platform for legal and professional-services workflows | `ai` `enterprise` `legal` `product-strategy` `microsoft-relevant` |
 
 ---
 
@@ -164,6 +170,9 @@ Last updated: 2026-09-19 (Kaz Nejatian on truth, turnarounds, and AI-enabled org
 | [Choosing Among Good Options](concepts/choosing-among-good-options.md) | The hard strategic problem is selecting among several valid futures when the best path has delayed feedback | `decision-making` `product-strategy` `leadership` `frameworks` `microsoft-relevant` |
 | [Truth Over Feelings](concepts/truth-over-feelings.md) | Make reality, mission alignment, and useful disagreement outrank comfort and politeness | `leadership` `org-design` `decision-making` `frameworks` `microsoft-relevant` |
 | [AI Exoskeleton](concepts/ai-exoskeleton.md) | Wrap each worker in context and decision support to flatten management layers without laundering accountability | `ai` `org-design` `product-strategy` `agentic-ai` `frameworks` `microsoft-relevant` |
+| [Taste as Bottleneck](concepts/taste-as-bottleneck.md) | As AI makes implementation abundant, judgment about what to build and what good looks like becomes the constraint | `ai` `product-strategy` `product-development` `frameworks` `microsoft-relevant` |
+| [Build and Bake](concepts/build-and-bake.md) | Prototype model-dependent ideas early, then revisit them as capability and user readiness improve | `ai` `product-strategy` `product-development` `frameworks` `microsoft-relevant` |
+| [P0 / Two-Way Door Decisioning](concepts/p0-two-way-door-decisioning.md) | Tie decisions to the current bottleneck, move quickly on reversible choices, and protect the P0 from socially rewarded distractions | `decision-making` `leadership` `product-strategy` `frameworks` `microsoft-relevant` |
 
 ---
 
@@ -173,13 +182,13 @@ Last updated: 2026-09-19 (Kaz Nejatian on truth, turnarounds, and AI-enabled org
 
 **PM Career & Org Transformation**: [Bill Gurley — Founder Advantages](podcasts/knowledge-project-bill-gurley-founders-product-instinct.md) · [Bedrock and Bleeding Edge](concepts/bedrock-and-bleeding-edge.md) · [Founder Advantage Stack](concepts/founder-advantage-stack.md) · [Nikhyl Singhal — Future of PM](podcasts/lenny-nikhyl-singhal-pm-career-ai.md) · [Max Schoening — Agency over Skills](podcasts/lenny-max-schoening-agency-over-skills.md) · [Dan Shipper — AI Paradox](podcasts/lenny-dan-shipper-ai-paradox.md) · [AI's Third Era](podcasts/lenny-tara-seshan-persistent-ai-coworkers.md) · [Persistent AI Coworkers](concepts/persistent-ai-coworkers.md) · [Writing as Thinking](concepts/writing-as-thinking.md) · [Near-Term Model Horizon](concepts/near-term-model-horizon.md) · [Builder vs. Information Mover](concepts/builder-vs-information-mover.md) · [Shadow Superpower](concepts/shadow-superpower.md) · [Don't Be Fungible](concepts/dont-be-fungible.md) · [Cultivating Agency](concepts/cultivating-agency.md) · [Hyper-Realistic Work-Like Activities](concepts/hyper-realistic-work-like-activities.md) · [Automation Is a Lie](concepts/automation-is-a-lie.md) · [Forward-Deployed Engineer](concepts/forward-deployed-engineer.md) · [Super-Agent](concepts/super-agent.md) · [Ride the Model](concepts/ride-the-model.md) · [Steering vs. Rowing](concepts/steering-vs-rowing.md)
 
-**Product Frameworks & Mental Models**: [Bedrock and Bleeding Edge](concepts/bedrock-and-bleeding-edge.md) · [Founder Advantage Stack](concepts/founder-advantage-stack.md) · [We Don't Sell Saddles Here](concepts/we-dont-sell-saddles-here.md) · [Utility Curves](concepts/utility-curves.md) · [Big Bets Growth Strategy](concepts/big-bets-growth-strategy.md) · [Don't Be Fungible](concepts/dont-be-fungible.md) · [Right Amount of AGI-Pilled](concepts/right-amount-agi-pilled.md) · [Model Eats the Harness](concepts/model-eats-the-harness.md) · [Tiny Core](concepts/tiny-core.md) · [Obviously Good](concepts/obviously-good.md) · [Naked Robotic Core](concepts/naked-robotic-core.md) · [Small Group Theory](concepts/small-group-theory.md) · [Stewart Butterfield](podcasts/lenny-stewart-butterfield-slack.md) · [Competing Against Luck / JTBD](books/christensen-competing-against-luck.md) · [Positioning](books/ries-trout-positioning.md) · [Don't Make Me Think](books/krug-dont-make-me-think.md)
+**Product Frameworks & Mental Models**: [Bedrock and Bleeding Edge](concepts/bedrock-and-bleeding-edge.md) · [Founder Advantage Stack](concepts/founder-advantage-stack.md) · [We Don't Sell Saddles Here](concepts/we-dont-sell-saddles-here.md) · [Utility Curves](concepts/utility-curves.md) · [Big Bets Growth Strategy](concepts/big-bets-growth-strategy.md) · [Don't Be Fungible](concepts/dont-be-fungible.md) · [P0 / Two-Way Door Decisioning](concepts/p0-two-way-door-decisioning.md) · [Right Amount of AGI-Pilled](concepts/right-amount-agi-pilled.md) · [Model Eats the Harness](concepts/model-eats-the-harness.md) · [Tiny Core](concepts/tiny-core.md) · [Obviously Good](concepts/obviously-good.md) · [Naked Robotic Core](concepts/naked-robotic-core.md) · [Small Group Theory](concepts/small-group-theory.md) · [Stewart Butterfield](podcasts/lenny-stewart-butterfield-slack.md) · [Competing Against Luck / JTBD](books/christensen-competing-against-luck.md) · [Positioning](books/ries-trout-positioning.md) · [Don't Make Me Think](books/krug-dont-make-me-think.md)
 
 **Decision-Making & Leadership Books**: [Quit](books/duke-quit.md) · [Thinking in Bets](books/duke-thinking-in-bets.md) · [Reboot](books/colonna-reboot.md) · [Nonviolent Communication (book)](books/rosenberg-nonviolent-communication.md)
 
 **Org Design & Leadership**: [Hyper-Realistic Work-Like Activities](concepts/hyper-realistic-work-like-activities.md) · [GROW Coaching Framework](concepts/grow-coaching-framework.md) · [Nonviolent Communication](concepts/nonviolent-communication.md) · [Seeing Like a State](books/scott-seeing-like-a-state.md) · [Cultivating Agency](concepts/cultivating-agency.md)
 
-**Leadership & Management**: [Andy Stumpf — Micro-Discipline](podcasts/huberman-andy-stumpf-micro-discipline-high-performance.md) · [Influence vs. Concern](concepts/influence-vs-concern.md) · [Micro-Discipline](concepts/micro-discipline.md) · [GROW Coaching Framework](concepts/grow-coaching-framework.md) · [Nonviolent Communication](concepts/nonviolent-communication.md) · [Rachel Lockett on Difficult Conversations](podcasts/lenny-rachel-lockett-difficult-conversations.md) · [Four Pillars of Flourishing](concepts/four-pillars-of-flourishing.md) · [Richie Davidson on Meditation](podcasts/huberman-richie-davidson-meditation-flourishing.md)
+**Leadership & Management**: [Winston Weinberg — Speed, Stress, and Better Decisions](podcasts/knowledge-project-winston-weinberg-speed-stress-decisions.md) · [P0 / Two-Way Door Decisioning](concepts/p0-two-way-door-decisioning.md) · [Andy Stumpf — Micro-Discipline](podcasts/huberman-andy-stumpf-micro-discipline-high-performance.md) · [Influence vs. Concern](concepts/influence-vs-concern.md) · [Micro-Discipline](concepts/micro-discipline.md) · [GROW Coaching Framework](concepts/grow-coaching-framework.md) · [Nonviolent Communication](concepts/nonviolent-communication.md) · [Rachel Lockett on Difficult Conversations](podcasts/lenny-rachel-lockett-difficult-conversations.md) · [Four Pillars of Flourishing](concepts/four-pillars-of-flourishing.md) · [Richie Davidson on Meditation](podcasts/huberman-richie-davidson-meditation-flourishing.md)
 
 **Business Strategy & Capital Allocation**: [John D. Rockefeller — Controlled Intensity](podcasts/knowledge-project-rockefeller-controlled-intensity-success.md) · [Controlled Intensity](concepts/controlled-intensity.md) · [John D. Rockefeller](entities/john-d-rockefeller.md) · [Standard Oil](entities/standard-oil.md) · [Founder Advantage Stack](concepts/founder-advantage-stack.md) · [Big Bets Growth Strategy](concepts/big-bets-growth-strategy.md)
 
