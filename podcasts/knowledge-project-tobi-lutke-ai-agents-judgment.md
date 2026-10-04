@@ -15,7 +15,6 @@ related:
   - ../concepts/bedrock-and-bleeding-edge.md
   - ../concepts/choosing-among-good-options.md
 ---
-
 # Tobi Lütke: AI Agents, Better Decisions, and the Future of Work
 
 ## Metadata

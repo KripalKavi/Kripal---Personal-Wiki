@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md",
+                "file": "essays/paul-graham-how-to-do-great-work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "knowledge-project-tobi-lutke-ai-agents-judgment"
+              "title": "paul-graham-how-to-do-great-work"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md",
+                "file": "essays/paul-graham-how-to-do-great-work.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,6 +187,9 @@
   },
   "active": "a7e335741db00b42",
   "lastOpenFiles": [
+    "entities/molly-graham.md",
+    "podcasts/lenny-molly-graham-grief-burnout-ai.md",
+    "podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md",
     "podcasts/knowledge-project-rockefeller-controlled-intensity-success.md",
     "podcasts/lenny-stewart-butterfield-slack.md",
     "podcasts/lenny-tara-seshan-persistent-ai-coworkers.md",
@@ -210,14 +213,11 @@
     "concepts/founder-advantage-stack.md",
     "concepts/bedrock-and-bleeding-edge.md",
     "entities/bill-gurley.md",
-    "essays/labosco-cortisol-sleep-9-fixes.md",
     "log.md.tmp.47032.42126961212c",
     "index.md.tmp.47032.c76c5e7d78d0",
     "index.md.tmp.47032.e50a3e27450a",
     "index.md.tmp.47032.05b1a135a148",
     "concepts/cultivating-agency.md.tmp.47032.8b702f3ac11e",
-    "concepts/ant-vs-break-in.md",
-    "index.md",
     "log.md.tmp.44112.1b0e857f63c6",
     "index.md.tmp.44112.ed5723f6edaf",
     "index.md.tmp.44112.9f760f08c34b",

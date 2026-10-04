@@ -3,7 +3,7 @@ title: "Cultivating Agency"
 type: concept
 date_added: 2026-05-15
 tags: [leadership, career, ai, org-design, frameworks, microsoft-relevant]
-sources: ["https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more"]
+sources: ["https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more", "https://podscripts.co/podcasts/lennys-podcast-product-career-growth/the-grief-loneliness-and-burnout-sweeping-through-the-tech-industry-right-now-molly-graham"]
 related: ["../podcasts/lenny-max-schoening-agency-over-skills.md", "../entities/max-schoening.md", "../concepts/builder-vs-information-mover.md", "../concepts/dont-be-fungible.md", "../concepts/shadow-superpower.md", "../concepts/first-ten-percent-free.md", "../concepts/malleable-software.md", "../concepts/ant-vs-break-in.md", "../concepts/founder-advantage-stack.md", "../concepts/influence-vs-concern.md", "../concepts/micro-discipline.md", "../essays/labosco-cortisol-sleep-9-fixes.md"]
 ---
 

@@ -20,9 +20,14 @@ related:
   - ../concepts/ride-the-model.md
   - ../concepts/hyper-realistic-work-like-activities.md
   - ../concepts/cultivating-agency.md
+  - ../podcasts/lenny-molly-graham-grief-burnout-ai.md
 ---
 
 # Automation Is a Lie
+
+## Graham's Human/AI Delegation Distinction
+
+Molly Graham adds an important qualification: delegating to a human transfers ownership, while delegating to AI usually transfers execution but leaves the original worker responsible for context, quality, exceptions, and outcomes. The result is not “work disappears”; it is a managerial oversight loop. This explains why AI can increase throughput while also increasing cognitive load, rework, loneliness, and burnout. See [Molly Graham's episode](../podcasts/lenny-molly-graham-grief-burnout-ai.md).
 
 ## Definition
 
