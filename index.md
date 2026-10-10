@@ -2,7 +2,7 @@
 
 _Content catalog. Updated on each ingest. Read this first when querying._
 
-Last updated: 2026-10-04 (Molly Graham transcript ingest)
+Last updated: 2026-10-10 (Elissa Epel transcript ingest)
 
 ---
 
@@ -33,6 +33,7 @@ Last updated: 2026-10-04 (Molly Graham transcript ingest)
 | [How to Rewire Your Brain with Meditation](podcasts/huberman-richie-davidson-meditation-flourishing.md) | Richie Davidson | Huberman Lab | 2025 | `leadership` `performance` `neuroscience` `frameworks` `org-design` |
 | [Why Cultivating Agency Matters More Than Cultivating Skills in the AI Era](podcasts/lenny-max-schoening-agency-over-skills.md) | Max Schoening | Lenny's Podcast | 2026-05-03 | `ai` `product-strategy` `leadership` `career` `org-design` `frameworks` `microsoft-relevant` |
 | [The AI Paradox: More Automation, More Humans, More Work](podcasts/lenny-dan-shipper-ai-paradox.md) | Dan Shipper | Lenny's Podcast | 2026-05-24 | `ai` `product-strategy` `saas` `org-design` `agentic-ai` `frameworks` `microsoft-relevant` |
+| [Essentials: Manage Stress and Build Resilience](podcasts/huberman-essentials-elissa-epel-stress-resilience.md) | Elissa Epel | Huberman Lab Essentials | 2026-10-08 | `leadership` `performance` `neuroscience` `resilience` `mental-health` `frameworks` `microsoft-relevant` |
 
 ---
 
@@ -173,6 +174,7 @@ Last updated: 2026-10-04 (Molly Graham transcript ingest)
 | [Ride the Model](concepts/ride-the-model.md) | Survival principle: models make yesterday's competence cheap; ride each new release on your actual work or get commoditized | `ai` `career` `product-strategy` `frameworks` `microsoft-relevant` |
 | [Reach Test](concepts/reach-test.md) | When you wake up, do you reach for it organically? Shipper's adoption diagnostic; binary, behavioral, hard to game | `ai` `product-strategy` `activation` `frameworks` `microsoft-relevant` |
 | [Ant vs. Break-in (Alarm Calibration)](concepts/ant-vs-break-in.md) | Nervous system fires the same alarm for a Slack ping as for a tiger; the fix is response calibration, not stimulus reduction | `leadership` `performance` `neuroscience` `frameworks` `microsoft-relevant` |
+| [Stress-Response Calibration](concepts/stress-response-calibration.md) | Match effort to controllability: muscle through what can change; release and redirect when facing an immovable wall | `leadership` `performance` `resilience` `neuroscience` `decision-making` `frameworks` `microsoft-relevant` |
 | [Choosing Among Good Options](concepts/choosing-among-good-options.md) | The hard strategic problem is selecting among several valid futures when the best path has delayed feedback | `decision-making` `product-strategy` `leadership` `frameworks` `microsoft-relevant` |
 | [Truth Over Feelings](concepts/truth-over-feelings.md) | Make reality, mission alignment, and useful disagreement outrank comfort and politeness | `leadership` `org-design` `decision-making` `frameworks` `microsoft-relevant` |
 | [AI Exoskeleton](concepts/ai-exoskeleton.md) | Wrap each worker in context and decision support to flatten management layers without laundering accountability | `ai` `org-design` `product-strategy` `agentic-ai` `frameworks` `microsoft-relevant` |

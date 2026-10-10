@@ -4,7 +4,7 @@ type: entity-person
 date_added: 2026-08-09
 tags: [performance, neuroscience, mental-health, frameworks, leadership]
 sources: ["https://www.hubermanlab.com/"]
-related: ["../podcasts/huberman-andy-stumpf-micro-discipline-high-performance.md", "../podcasts/huberman-richie-davidson-meditation-flourishing.md", "../podcasts/huberman-control-brain-chemistry-practical-toolkit.md", "../concepts/four-pillars-of-flourishing.md", "../concepts/micro-discipline.md", "../concepts/neurochemical-state-orchestration.md"]
+related: ["../podcasts/huberman-andy-stumpf-micro-discipline-high-performance.md", "../podcasts/huberman-richie-davidson-meditation-flourishing.md", "../podcasts/huberman-control-brain-chemistry-practical-toolkit.md", "../podcasts/huberman-essentials-elissa-epel-stress-resilience.md", "../concepts/four-pillars-of-flourishing.md", "../concepts/micro-discipline.md", "../concepts/neurochemical-state-orchestration.md", "../concepts/stress-response-calibration.md"]
 ---
 
 # Andrew Huberman
@@ -21,12 +21,14 @@ Neuroscientist and host of Huberman Lab, a long-form podcast translating neurosc
 - High-performance systems need serious treatment of mental health because accomplishment and reputation do not confer immunity from crisis.
 - Performance protocols should follow a risk hierarchy: behavior first, then nutrition, then supplements, with prescription interventions handled clinically.
 - Focus is not synonymous with stimulation: activation, target selection, and sustained pursuit are distinct functions, so more alertness can create agitation rather than useful work.
+- Stress management is a calibration problem: reframe manageable demands as challenges, then release effort against uncontrollable conditions rather than exporting chronic threat into the team.
 
 ## Appearances
 
 - [Micro-Discipline, Agency, and the Hidden Risks of High Performance](../podcasts/huberman-andy-stumpf-micro-discipline-high-performance.md) — with Andy Stumpf, 2026-06-15
 - [How to Rewire Your Brain with Meditation](../podcasts/huberman-richie-davidson-meditation-flourishing.md) — with Richie Davidson, ~2025
 - [Control Brain Chemistry: A Practical Toolkit for Focus, Motivation, and Well-Being](../podcasts/huberman-control-brain-chemistry-practical-toolkit.md) — solo Essentials episode, 2026-08-06
+- [Essentials: Manage Stress and Build Resilience](../podcasts/huberman-essentials-elissa-epel-stress-resilience.md) — with Elissa Epel, 2026-10-08
 
 ## Relevance
 
