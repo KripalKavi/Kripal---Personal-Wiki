@@ -4,7 +4,7 @@ type: concept
 date_added: 2026-09-05
 tags: [ai, product-strategy, agentic-ai, org-design, microsoft-relevant]
 sources: ["https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent", "https://podscripts.co/podcasts/lennys-podcast-product-career-growth/ais-third-era-the-rise-of-persistent-ai-coworkers-tara-seshan-openais-product-lead"]
-related: ["../podcasts/lenny-tara-seshan-persistent-ai-coworkers.md", "../entities/tara-seshan.md", "../concepts/steering-vs-rowing.md", "../concepts/harness-as-moat.md", "../concepts/automation-is-a-lie.md", "../concepts/super-agent.md"]
+related: ["../podcasts/lenny-tara-seshan-persistent-ai-coworkers.md", "../entities/tara-seshan.md", "../concepts/steering-vs-rowing.md", "../concepts/harness-as-moat.md", "../concepts/automation-is-a-lie.md", "../concepts/super-agent.md", "../concepts/family-assistant-operating-system.md"]
 ---
 
 # Persistent AI Coworkers

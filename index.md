@@ -2,7 +2,13 @@
 
 _Content catalog. Updated on each ingest. Read this first when querying._
 
-Last updated: 2026-10-10 (Elissa Epel transcript ingest)
+Last updated: 2026-11-13 (Jon McNeill AI-company interview follow-up)
+
+## Personal Notes
+
+| Page | Description | Tags |
+|------|-------------|------|
+| [Therapy Appointment — Daylight-Saving Time Correction](notes/therapy-appointment-daylight-saving-2026-11-03.md) | November 3, 2026 therapy appointment moved from 8:00 to 7:00 AM after the daylight-saving transition | `personal` `calendar` `daylight-saving` |
 
 ---
 
@@ -10,6 +16,9 @@ Last updated: 2026-10-10 (Elissa Epel transcript ingest)
 
 | Page | Guest | Show | Date | Tags |
 |------|-------|------|------|------|
+| [How Elon Musk Solves Problems — Jon McNeill](podcasts/knowledge-project-jon-mcneill-how-elon-musk-solves-problems.md) | Jon McNeill | The Knowledge Project | 2026-11-10 | `leadership` `product-strategy` `decision-making` `operations` `speed` `frameworks` `ai` `career` `microsoft-relevant` |
+| [How to Stay Current, Get Hired, and Last in AI](podcasts/the-skip-how-to-stay-current-get-hired-last-in-ai.md) | Dana Ingraham, Hemal Shah, Jiaona Zhang | The Skip Podcast | 2026-11-12 | `ai` `career` `product-strategy` `leadership` `hiring` `microsoft-relevant` |
+| [Steven Kotler: The Science of Doing Your Best Work](podcasts/knowledge-project-steven-kotler-best-work.md) | Steven Kotler | The Knowledge Project | 2026-10-27 | `performance` `focus` `learning` `neuroscience` `microsoft-relevant` |
 | [Molly Graham: Grief, Loneliness, and Burnout in the AI Workplace](podcasts/lenny-molly-graham-grief-burnout-ai.md) | Molly Graham | Lenny's Podcast | 2026-09-27 | `ai` `leadership` `org-design` `career` `microsoft-relevant` |
 | [Peter Sellis: Core Product Value, Taste, and Spiky Talent](podcasts/lenny-peter-sellis-snap-discord-product.md) | Peter Sellis | Lenny's Podcast | 2026-09-20 | `product-strategy` `growth` `leadership` `org-design` `microsoft-relevant` |
 | [Tobi Lütke: AI Agents, Better Decisions, and the Future of Work](podcasts/knowledge-project-tobi-lutke-ai-agents-judgment.md) | Tobi Lütke | The Knowledge Project | 2026-09-15 | `ai` `agentic-ai` `product-strategy` `decision-making` `leadership` `org-design` `microsoft-relevant` |
@@ -81,6 +90,8 @@ Last updated: 2026-10-10 (Elissa Epel transcript ingest)
 
 | Page | Role | Tags |
 |------|------|------|
+| [Jon McNeill](entities/jon-mcneill.md) | Former Tesla President and Lyft COO; CEO of DVx Ventures | `leadership` `operations` `product-strategy` `speed` |
+| [Steven Kotler](entities/steven-kotler.md) | Author and executive director of the Flow Research Collective | `performance` `flow` `neuroscience` `learning` |
 | [John D. Rockefeller](entities/john-d-rockefeller.md) | Founder and principal architect of Standard Oil; industrialist and philanthropist | `leadership` `business-strategy` `capital-allocation` `performance` `philanthropy` `frameworks` |
 | [Andy Stumpf](entities/andy-stumpf.md) | Retired Navy SEAL; high-performance athlete; author | `leadership` `performance` `resilience` `mental-health` `frameworks` |
 | [Andrew Huberman](entities/andrew-huberman.md) | Neuroscientist; host of Huberman Lab | `performance` `neuroscience` `mental-health` `frameworks` `leadership` |
@@ -115,6 +126,7 @@ Last updated: 2026-10-10 (Elissa Epel transcript ingest)
 
 | Page | Description | Tags |
 |------|-------------|------|
+| [Tesla](entities/tesla.md) | Electric vehicle and energy company; case study in speed, direct problem solving, and process simplification | `product-strategy` `operations` `innovation` `speed` |
 | [Standard Oil](entities/standard-oil.md) | Integrated oil refining and distribution system; operational excellence paired with monopoly and legitimacy lessons | `business-strategy` `industrialization` `distribution` `capital-allocation` `monopoly` `frameworks` |
 | [Anthropic](entities/anthropic.md) | AI safety company, maker of Claude | `ai` `growth` |
 | [Google](entities/google.md) | Search, Workspace, and AI (Gemini, AI Mode) | `ai` `search` `microsoft-relevant` |
@@ -132,6 +144,11 @@ Last updated: 2026-10-10 (Elissa Epel transcript ingest)
 
 | Page | One-line summary | Tags |
 |------|-----------------|------|
+| [Simplify Before You Automate](concepts/simplify-before-automate.md) | Question, delete, simplify, and accelerate a process before automating it | `product-strategy` `operations` `ai` `automation` `frameworks` `microsoft-relevant` |
+| [Speed as Competitive Advantage](concepts/speed-as-competitive-advantage.md) | Speed as shorter loops of observation, decision, action, feedback, and resource reallocation | `product-strategy` `leadership` `operations` `decision-making` `frameworks` `microsoft-relevant` |
+| [Follow Me Home Customer Discovery](concepts/follow-me-home-customer-discovery.md) | Put real users in front of decision-makers, then use forced voting to reveal the few priorities that matter most | `product-strategy` `product-discovery` `customer-experience` `frameworks` `microsoft-relevant` |
+| [Interviewing for AI-Company Roles](concepts/interviewing-for-ai-company-roles.md) | Prepare and evaluate through realistic work, practitioner detail, calibrated judgment, domain depth, and explicit operating culture | `ai` `career` `hiring` `talent` `frameworks` `microsoft-relevant` |
+| [Flow State and Calibrated Challenge](concepts/flow-state-and-calibrated-challenge.md) | Trainable peak performance through protected attention and tasks calibrated just beyond current skill | `performance` `focus` `learning` `neuroscience` `frameworks` `microsoft-relevant` |
 | [Controlled Intensity](concepts/controlled-intensity.md) | Pair ambition with exact measurement, emotional self-command, deliberate timing, reserves, and concentrated action—bounded by a public-legitimacy test | `leadership` `performance` `decision-making` `capital-allocation` `frameworks` `microsoft-relevant` |
 | [Neurochemical State Orchestration](concepts/neurochemical-state-orchestration.md) | Match the task to the day's baseline state, then use the lowest-risk tool that closes the activation, attention, pursuit, or recovery gap | `leadership` `performance` `neuroscience` `focus` `frameworks` `microsoft-relevant` |
 | [Influence vs. Concern](concepts/influence-vs-concern.md) | Externalize mental load, separate what can be influenced, and convert it into specific responses | `leadership` `performance` `decision-making` `frameworks` `microsoft-relevant` |
@@ -143,6 +160,7 @@ Last updated: 2026-10-10 (Elissa Epel transcript ingest)
 | [Right Amount of AGI-Pilled](concepts/right-amount-agi-pilled.md) | Calibrating product design to current model capability, not superintelligence; eliciting maximum performance from what you have | `ai` `product-strategy` `frameworks` `microsoft-relevant` |
 | [Steering vs. Rowing](concepts/steering-vs-rowing.md) | AI shifts human work from manual execution to direction-setting, review, and correction | `ai` `product-strategy` `org-design` `frameworks` `microsoft-relevant` |
 | [Persistent AI Coworkers](concepts/persistent-ai-coworkers.md) | AI that remembers enough to resume work and behave like a durable teammate | `ai` `product-strategy` `agentic-ai` `org-design` `frameworks` `microsoft-relevant` |
+| [Family Assistant Operating System](concepts/family-assistant-operating-system.md) | A family assistant that coordinates recurring household systems through continuity, planning, and proactive preparation | `ai` `agentic-ai` `productivity` `family-systems` `frameworks` |
 | [Writing as Thinking](concepts/writing-as-thinking.md) | Docs, prompts, and notes used to sharpen the real question before execution | `ai` `product-strategy` `org-design` `frameworks` `microsoft-relevant` |
 | [Near-Term Model Horizon](concepts/near-term-model-horizon.md) | Build for the next few months of model capability, not today's ceiling or a year's-out fantasy | `ai` `product-strategy` `frameworks` `microsoft-relevant` |
 | [Model Eats the Harness](concepts/model-eats-the-harness.md) | As models improve, systematically remove scaffolding that compensated for prior weaknesses | `ai` `product-development` `frameworks` `microsoft-relevant` |
@@ -187,7 +205,7 @@ Last updated: 2026-10-10 (Elissa Epel transcript ingest)
 
 ## Topic Index
 
-**AI & Product Strategy**: [Molly Graham — AI workplace](podcasts/lenny-molly-graham-grief-burnout-ai.md) · [Cat Wu — AI-native PM](podcasts/lenny-cat-wu-ai-native-pm.md) · [Anthropic Growth](podcasts/lenny-anthropic-growth-amol-avasare.md) · [Claude Code](podcasts/lenny-claude-code-boris-cherny.md) · [Google AI Mode](podcasts/lenny-google-ai-mode-robby-stein.md) · [Marc Andreessen on AI](podcasts/lenny-marc-andreessen-ai-boom.md) · [Max Schoening — Agency over Skills](podcasts/lenny-max-schoening-agency-over-skills.md) · [Dan Shipper — AI Paradox](podcasts/lenny-dan-shipper-ai-paradox.md) · [AI's Third Era](podcasts/lenny-tara-seshan-persistent-ai-coworkers.md) · [Persistent AI Coworkers](concepts/persistent-ai-coworkers.md) · [Writing as Thinking](concepts/writing-as-thinking.md) · [Near-Term Model Horizon](concepts/near-term-model-horizon.md) · [AI Product Activation](concepts/ai-product-activation.md) · [AI Evals](concepts/ai-evals.md) · [Right Amount of AGI-Pilled](concepts/right-amount-agi-pilled.md) · [Steering vs. Rowing](concepts/steering-vs-rowing.md) · [Model Eats the Harness](concepts/model-eats-the-harness.md) · [Harness as Moat](concepts/harness-as-moat.md) · [First 10% Is Free](concepts/first-ten-percent-free.md) · [Malleable Software](concepts/malleable-software.md) · [Automation Is a Lie](concepts/automation-is-a-lie.md) · [Bring Your Own Tokens](concepts/bring-your-own-tokens.md) · [Forward-Deployed Engineer](concepts/forward-deployed-engineer.md) · [Super-Agent](concepts/super-agent.md) · [Ride the Model](concepts/ride-the-model.md) · [Reach Test](concepts/reach-test.md) · [OpenClaw / Personal AI Agents](essays/lenny-claire-vo-openclaw-personal-ai-agent.md) · [Obsidian Claude Sidebar](tools/derek-larson-obsidian-claude-sidebar.md) · [Anthropic](entities/anthropic.md) · [Google](entities/google.md) · [Notion](entities/notion.md) · [Every](entities/every.md)
+**AI & Product Strategy**: [Molly Graham — AI workplace](podcasts/lenny-molly-graham-grief-burnout-ai.md) · [Cat Wu — AI-native PM](podcasts/lenny-cat-wu-ai-native-pm.md) · [Anthropic Growth](podcasts/lenny-anthropic-growth-amol-avasare.md) · [Claude Code](podcasts/lenny-claude-code-boris-cherny.md) · [Google AI Mode](podcasts/lenny-google-ai-mode-robby-stein.md) · [Marc Andreessen on AI](podcasts/lenny-marc-andreessen-ai-boom.md) · [Max Schoening — Agency over Skills](podcasts/lenny-max-schoening-agency-over-skills.md) · [Dan Shipper — AI Paradox](podcasts/lenny-dan-shipper-ai-paradox.md) · [AI's Third Era](podcasts/lenny-tara-seshan-persistent-ai-coworkers.md) · [Persistent AI Coworkers](concepts/persistent-ai-coworkers.md) · [Family Assistant Operating System](concepts/family-assistant-operating-system.md) · [Writing as Thinking](concepts/writing-as-thinking.md) · [Near-Term Model Horizon](concepts/near-term-model-horizon.md) · [AI Product Activation](concepts/ai-product-activation.md) · [AI Evals](concepts/ai-evals.md) · [Right Amount of AGI-Pilled](concepts/right-amount-agi-pilled.md) · [Steering vs. Rowing](concepts/steering-vs-rowing.md) · [Model Eats the Harness](concepts/model-eats-the-harness.md) · [Harness as Moat](concepts/harness-as-moat.md) · [First 10% Is Free](concepts/first-ten-percent-free.md) · [Malleable Software](concepts/malleable-software.md) · [Automation Is a Lie](concepts/automation-is-a-lie.md) · [Bring Your Own Tokens](concepts/bring-your-own-tokens.md) · [Forward-Deployed Engineer](concepts/forward-deployed-engineer.md) · [Super-Agent](concepts/super-agent.md) · [Ride the Model](concepts/ride-the-model.md) · [Reach Test](concepts/reach-test.md) · [OpenClaw / Personal AI Agents](essays/lenny-claire-vo-openclaw-personal-ai-agent.md) · [Obsidian Claude Sidebar](tools/derek-larson-obsidian-claude-sidebar.md) · [Anthropic](entities/anthropic.md) · [Google](entities/google.md) · [Notion](entities/notion.md) · [Every](entities/every.md)
 
 **PM Career & Org Transformation**: [Molly Graham — AI workplace](podcasts/lenny-molly-graham-grief-burnout-ai.md) · [Bill Gurley — Founder Advantages](podcasts/knowledge-project-bill-gurley-founders-product-instinct.md) · [Bedrock and Bleeding Edge](concepts/bedrock-and-bleeding-edge.md) · [Founder Advantage Stack](concepts/founder-advantage-stack.md) · [Nikhyl Singhal — Future of PM](podcasts/lenny-nikhyl-singhal-pm-career-ai.md) · [Max Schoening — Agency over Skills](podcasts/lenny-max-schoening-agency-over-skills.md) · [Dan Shipper — AI Paradox](podcasts/lenny-dan-shipper-ai-paradox.md) · [AI's Third Era](podcasts/lenny-tara-seshan-persistent-ai-coworkers.md) · [Persistent AI Coworkers](concepts/persistent-ai-coworkers.md) · [Writing as Thinking](concepts/writing-as-thinking.md) · [Near-Term Model Horizon](concepts/near-term-model-horizon.md) · [Builder vs. Information Mover](concepts/builder-vs-information-mover.md) · [Shadow Superpower](concepts/shadow-superpower.md) · [Don't Be Fungible](concepts/dont-be-fungible.md) · [Cultivating Agency](concepts/cultivating-agency.md) · [Hyper-Realistic Work-Like Activities](concepts/hyper-realistic-work-like-activities.md) · [Automation Is a Lie](concepts/automation-is-a-lie.md) · [Forward-Deployed Engineer](concepts/forward-deployed-engineer.md) · [Super-Agent](concepts/super-agent.md) · [Ride the Model](concepts/ride-the-model.md) · [Steering vs. Rowing](concepts/steering-vs-rowing.md)
 

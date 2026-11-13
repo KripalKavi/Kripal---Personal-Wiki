@@ -4,7 +4,7 @@ type: concept
 date_added: 2026-05-11
 tags: [ai, product-strategy, frameworks, microsoft-relevant, agentic-ai]
 sources: ["https://github.com/derek-larson14/obsidian-claude-sidebar"]
-related: ["../concepts/model-eats-the-harness.md", "../concepts/we-dont-sell-saddles-here.md", "../concepts/bitter-lesson.md", "../tools/derek-larson-obsidian-claude-sidebar.md", "../essays/lenny-claire-vo-openclaw-personal-ai-agent.md"]
+related: ["../concepts/model-eats-the-harness.md", "../concepts/we-dont-sell-saddles-here.md", "../concepts/bitter-lesson.md", "../tools/derek-larson-obsidian-claude-sidebar.md", "../essays/lenny-claire-vo-openclaw-personal-ai-agent.md", "../concepts/family-assistant-operating-system.md"]
 ---
 
 # Harness as Moat
